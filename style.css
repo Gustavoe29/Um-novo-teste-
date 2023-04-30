@@ -1,0 +1,14 @@
+.APRESENTAÇÃO {
+    font-family: cursive; font-size: medium; text-align: center; color:#8c52ff 
+}
+.imagens_das_redes_sociais {
+ float: right; bottom: 0px; position:absolute;
+}
+.logowhats {
+    max-width: 45px; max-height: 45px;
+}
+.logoinsta {
+    max-width: 45; max-height: 45px;
+}
+body{
+    background-color:#001737}
